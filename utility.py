@@ -91,14 +91,15 @@ def vis_opt_lattice(df, color, save, save_name):
     df_exp = df[column_exp]
     df_opt = df[column_opt]
 
-    order = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
+    order = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']
     labels = [r'$a$ ($\mathrm{\mathring{A}}$)',
               r'$b$ ($\mathrm{\mathring{A}}$)',
               r'$c$ ($\mathrm{\mathring{A}}$)',
               r'$\alpha$ ($^{\circ}$)',
               r'$\beta$ ($^{\circ}$)',
               r'$\gamma$ ($^{\circ}$)',
-              r'$V$ ($\mathrm{\mathring{A}}^3$)']
+              r'$V$ ($\mathrm{\mathring{A}}^3$)',
+              r'Density (g/cm$^3$)']
 
     fig = plt.figure(figsize=(12, 13))
     ec = 'black'
