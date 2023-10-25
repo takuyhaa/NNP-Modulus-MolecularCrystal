@@ -1,6 +1,6 @@
 # NNP-Modulus-MolecularCrystal
  
-![image](https://github.com/takuyhaa/NNP-Modulus-MolecularCrystal/assets/86113952/9f463ade-002f-4c77-81a1-0662ff463b2b)
+![github](https://github.com/takuyhaa/NNP-Modulus-MolecularCrystal/assets/86113952/c4686d54-511e-4362-b5d7-023d2150a1bb)
 
 ## Notebook introduction
 This repository stores notebooks to calculate elastic properties by NNPs.  
